@@ -1,0 +1,15 @@
+.btn-blue {
+  background-color: #0091AD;
+  color: white;
+  border-radius: 6px;
+  padding: 10px 15px;
+  font-family: "Squada One", serif;
+}
+
+.btn-blue:hover {
+  background-color: #5B3000;
+  color: white;
+  border-radius: 6px;
+  padding: 10px 15px;
+  font-family: "Squada One", serif;
+}
